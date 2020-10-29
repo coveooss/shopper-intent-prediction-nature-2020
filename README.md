@@ -15,7 +15,8 @@ agree to the _Terms And Conditions_ for fair usage of the data.
 ### Data Structure
 
 The dataset is provided as one big text file (`.csv`), inside an `zip` archive containing an additional copy of the 
-_Terms And Conditions_. A sample file is included in this repository, showcasing the data structure. 
+_Terms And Conditions_. The final dataset contains 5.433.611 individual events, and it is the first dataset of this
+kind to be released to the research community. A sample file is included in this repository, showcasing the data structure. 
 
 Field | Type | Description
 ------------ | ------------- | -------------
