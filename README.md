@@ -12,6 +12,9 @@ The dataset is available for _research and educational_ purposes at this [page](
 To obtain the dataset, you are required to fill a form with information about you and your institution, and
 agree to the _Terms And Conditions_ for fair usage of the data.
 
+For convenience, _Terms And Conditions_ are also included in a pure `txt` format in this repo: 
+usage of the data imply the acceptance of these _Terms And Conditions_.
+
 ### Data Structure
 
 The dataset is provided as one big text file (`.csv`), inside an `zip` archive containing an additional copy of the 
