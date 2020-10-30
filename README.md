@@ -43,7 +43,7 @@ For questions about the dataset, please reach out to [Jacopo Tagliabue](https://
 
 
 ### Acknowledgments
-The original paper is a collaboration between industry and academia, over a dataset gently provided by [Coveo](https://www.coveo.com/en).
+The original paper is a collaboration between industry and academia, over a dataset gently provided by [Coveo](https://coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
 The authors of the paper are:
 
 * [Borja Requena](https://www.linkedin.com/in/borja-requena-pozo-52365a148/?originalSubdomain=es) - Institut de Ciencies Fotoniques, The Barcelona Institute of Science and Technology
