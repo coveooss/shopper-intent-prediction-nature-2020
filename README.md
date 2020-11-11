@@ -3,17 +3,17 @@ _Public Data Release 1.0.0_
 
 
 ### Overview
-This repo contains the description of the data released together with our _Nature Scientific Reports_ 
+This repo contains the description of the data released in conjunction with our _Nature Scientific Reports_ 
 paper [Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information](https://rdcu.be/b8oqN).
 
 ### Data Download
 
-The dataset is available for _research and educational_ purposes at this [page](https://www.coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
-To obtain the dataset, you are required to fill a form with information about you and your institution, and
+The dataset is available for _research and educational_ purposes [here](https://www.coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
+To obtain the dataset, you are required to fill out a form with information about you and your institution, and
 agree to the _Terms And Conditions_ for fair usage of the data.
 
 For convenience, _Terms And Conditions_ are also included in a pure `txt` format in this repo: 
-usage of the data imply the acceptance of these _Terms And Conditions_.
+usage of the data implies the acceptance of these _Terms And Conditions_.
 
 ### Data Structure
 
@@ -32,7 +32,7 @@ hashed_url | string | Hashed url of the current web page.
 
 
 We refer the reader to the original [paper](https://rdcu.be/b8oqN) for an extended explanation of how to use the dataset for the
-clickstream prediction challenge. Usage of this data imply the acceptance of the _Terms And Conditions_ as set forward in
+clickstream prediction challenge. Usage of this data implies the acceptance of the _Terms And Conditions_ as set forward in
 the [download page](https://www.coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
 
 ### Contacts
@@ -43,7 +43,7 @@ For questions about the dataset, please reach out to [Jacopo Tagliabue](https://
 
 
 ### Acknowledgments
-The original paper is a collaboration between industry and academia, over a dataset gently provided by [Coveo](https://coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
+The original paper is a product of collaboration between industry and academia, over a dataset gently provided by [Coveo](https://coveo.com/en/ailabs/shopper-intent-prediction-from-clickstream-e-commerce-data-with-minimal-browsing-information).
 The authors of the paper are:
 
 * [Borja Requena](https://www.linkedin.com/in/borja-requena-pozo-52365a148/?originalSubdomain=es) - Institut de Ciencies Fotoniques, The Barcelona Institute of Science and Technology
